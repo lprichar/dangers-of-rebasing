@@ -1,0 +1,9 @@
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\bin\Debug\netcoreapp1.1\dangers-of-rebasing.deps.json
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\bin\Debug\netcoreapp1.1\dangers-of-rebasing.runtimeconfig.json
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\bin\Debug\netcoreapp1.1\dangers-of-rebasing.runtimeconfig.dev.json
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\bin\Debug\netcoreapp1.1\dangers-of-rebasing.dll
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\bin\Debug\netcoreapp1.1\dangers-of-rebasing.pdb
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\obj\Debug\netcoreapp1.1\dangers-of-rebasing.csproj.CoreCompileInputs.cache
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\obj\Debug\netcoreapp1.1\dangers-of-rebasing.AssemblyInfo.cs
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\obj\Debug\netcoreapp1.1\dangers-of-rebasing.dll
+C:\Users\Dave Ferguson\development\dangers-of-rebasing\obj\Debug\netcoreapp1.1\dangers-of-rebasing.pdb
